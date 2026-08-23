@@ -40,6 +40,7 @@ INSTALLED_APPS = [
     'nomApp',
     'products',
     'books',
+    'blog',
 ]
 
 MIDDLEWARE = [
